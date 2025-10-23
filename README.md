@@ -1,2 +1,1 @@
-# 100M-PI
-100 Million digits of π
+# 100 Million digits of π
